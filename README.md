@@ -210,11 +210,6 @@ The current GPIO configuration is:
   <img src="assets/from_top.jpeg" alt="IR Proximity Indicator running on ESP32 taken from top" width="700">
 </p>
 
-<p align="center">
-  <img src="assets/from_side.jpeg" alt="IR Proximity Indicator running on ESP32 taken from side" width="700">
-</p>
-
-
 ## 📄 License
 
 This project is licensed under the **MIT License**.
